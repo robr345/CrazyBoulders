@@ -1,4 +1,4 @@
-Commander X16 Crazy Boulders game.
+# Commander X16 Crazy Boulders game.
 
 The original version of Crazy Boulders by Dustan Strakl was programmed
 in Basic see https://github.com/Dooshco/X16-CrazyBoulders. Dustan has
