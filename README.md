@@ -16,4 +16,4 @@ This C version is an exercise in writing a game in C using the cc65 compiler.
 
 Using Dustan's game design made it easer to concentrate on the coding while learning how game mechanics work.
 
-The excellent libX16.lib by Chris Love provides functions vload and load_file to provide the C equivalent of the basic commands VLOAD and LOAD.
+The excellent libX16.lib by Chris Love provides functions vload and load_file to give the C equivalent of the basic commands VLOAD and LOAD.
