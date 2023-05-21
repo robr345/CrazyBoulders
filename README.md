@@ -1,5 +1,7 @@
 # Crazy Boulders C edition
 
+![CrazyBoulders screenshot](/image/CrazyBoulders500x390.png)
+
 This is a Boulder Dash style game for the Commander X16.
 
 Use the arrow keys or joystick to control the player.
