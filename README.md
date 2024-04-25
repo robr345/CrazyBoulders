@@ -1,5 +1,5 @@
 # Crazy Boulders C edition
-**Tested on real hardware and R46 emulator.**
+**Tested on real hardware and R47 emulator.**
 
 ![CrazyBoulders screenshot](/image/CrazyBoulders500x390.png)
 
